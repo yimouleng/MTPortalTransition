@@ -2,6 +2,10 @@
 #MTPortalTransition
 
  基于'PortalTransition' 修改的开门撕裂动画，原文地址 https://github.com/machackx/PortalTransition
+ 
+ 效果图：
+ [![](https://raw.githubusercontent.com/yimouleng/MTPortalTransition/master/2015-11-05%2015_07_57.gif)](https://raw.githubusercontent.com/yimouleng/MTPortalTransition/master/2015-11-05%2015_07_57.gif)
+ 
 # 以下为原文  Portal Transition
 
 [![Build Status](https://travis-ci.org/machackx/PortalTransition.svg?branch=master)](https://travis-ci.org/machackx/PortalTransition.svg?branch=master)
