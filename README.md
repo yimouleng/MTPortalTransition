@@ -1,7 +1,7 @@
 
 #MTPortalTransition
 
- 基于'PortalTransition' 修改的开门撕裂动画，原项目地址：https://github.com/machackx/PortalTransition
+ 基于'PortalTransition' 修改的开门撕裂动画， 原项目地址：https://github.com/machackx/PortalTransition
  
  效果图：
  [![](https://raw.githubusercontent.com/yimouleng/MTPortalTransition/master/2015-11-05%2015_07_57.gif)](https://raw.githubusercontent.com/yimouleng/MTPortalTransition/master/2015-11-05%2015_07_57.gif)
